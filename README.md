@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ximplifi is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ximplifi.com/
+Ximplifi provides specialized accounting, tax, and financial services tailored for short-term vacation rental property managers. Leveraging automated bookkeeping, revenue tracking, and compliance tools, Ximplifi helps owners and managers streamline their finances, reduce manual effort, and stay audit‑ready. The firm serves U.S. vacation rental businesses, integrating with popular platforms to deliver accurate reporting, tax filing assistance, and actionable insights for growth.
+
+**Areas:** Accounting · Vacation Rental · Property Management · SaaS · Finance
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ximplifi.com/)
+- [Documentation](https://ximplifi.com/docs)
+- [Getting started](https://ximplifi.com/developer)
+- [API reference](https://ximplifi.com/api)
+- [Pricing](https://ximplifi.com/pricing)
+- [Sign up](https://ximplifi.com/signup)
+- [Support](https://ximplifi.com/support)
+- [Blog](https://ximplifi.com/blog)
+- [Terms of service](https://ximplifi.com/terms)
+- [Privacy policy](https://ximplifi.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ximplifi/](https://apis.io/providers/ximplifi/).
